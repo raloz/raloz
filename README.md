@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**raloz/raloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Octavio.
 
-Here are some ideas to get you started:
+I'm currently NetSuite Developer at kavak.com, but i love to take some side projects to make my live more stressfull 💀.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm gona use this github to upload some of my side project and gona try to finish them (but maybe not 🥶🥶). 
+
+### Bio
+
+- **Age**: 32 years old (for now)
+- **Experience**: 7 years working as JavaScript developer
+- **Location**: Chiapas, Méx.
+- **Fav Language**: JavaScript
+- **Linkedin**: [@OctavioQuiroz](https://www.linkedin.com/in/octavio-quiroz/)
+
