@@ -1,4 +1,7 @@
-<h1 style="color:red;">Hi there 👋🏽</h1>
-<h3>I'm Octavio Quiroz</h3>
-<h5>NetSuite SR Developer 🧑🏽‍💻</h5>
+<h1>Hi there 👋🏽</h1>
+<h3>
+  I'm Octavio Quiroz <br />
+  <small>NetSuite SR Developer 🧑🏽‍💻</small>
+</h3>
+
 
