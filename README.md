@@ -1,7 +1,5 @@
-<h1>Hi there 👋🏽</h1>
-<h3>
-  I'm Octavio Quiroz <br />
-  <small>NetSuite SR Developer 🧑🏽‍💻</small>
-</h3>
+# Hi there 👋🏽
+
+I'm Octavio Quiroz / NetSuite SR Developer 🧑🏽‍💻
 
 
